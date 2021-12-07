@@ -3,4 +3,4 @@ Variables
 constructors
 
 second commit
-methods
+method
